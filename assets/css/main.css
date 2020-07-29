@@ -2974,7 +2974,7 @@ body.is-touch .poptrox-popup .closer {
 @media screen and (max-width: 1800px) {
   /* Basic */
   #header {
-    padding: 6em 3em 3em 3em;
+    padding: 6em 3em 3em 2em;
     width: 30%;
   }
 
@@ -3027,7 +3027,7 @@ body.is-touch .poptrox-popup .closer {
   #main {
     margin-left: 30%;
     max-width: none;
-    padding: 6em 3em 3em 3em;
+    padding: 1em 3em 3em 3em;
     width: calc(100% - 30%);
   }
 }
